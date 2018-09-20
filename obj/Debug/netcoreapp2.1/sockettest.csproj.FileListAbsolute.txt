@@ -1,0 +1,11 @@
+/home/wyl/dotnetcore/sockettest/bin/Debug/netcoreapp2.1/sockettest.deps.json
+/home/wyl/dotnetcore/sockettest/bin/Debug/netcoreapp2.1/sockettest.runtimeconfig.json
+/home/wyl/dotnetcore/sockettest/bin/Debug/netcoreapp2.1/sockettest.runtimeconfig.dev.json
+/home/wyl/dotnetcore/sockettest/bin/Debug/netcoreapp2.1/sockettest.dll
+/home/wyl/dotnetcore/sockettest/bin/Debug/netcoreapp2.1/sockettest.pdb
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.csprojAssemblyReference.cache
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.csproj.CoreCompileInputs.cache
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.AssemblyInfoInputs.cache
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.AssemblyInfo.cs
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.dll
+/home/wyl/dotnetcore/sockettest/obj/Debug/netcoreapp2.1/sockettest.pdb

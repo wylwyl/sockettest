@@ -1,0 +1,13 @@
+Start listening 0.0.0.0:9999 success
+
+Unhandled Exception: System.UnauthorizedAccessException: Access to the path is denied. ---> System.IO.IOException: Bad file descriptor
+   --- End of inner exception stack trace ---
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Interop.CheckIo(Int64 result, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at System.ConsolePal.Read(SafeFileHandle fd, Byte[] buffer, Int32 offset, Int32 count)
+   at System.ConsolePal.UnixConsoleStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.StreamReader.ReadBuffer()
+   at System.IO.StreamReader.ReadLine()
+   at System.IO.SyncTextReader.ReadLine()
+   at System.Console.ReadLine()
+   at sockettest.Program.Main(String[] args) in /home/wyl/dotnetcore/sockettest/Program.cs:line 27
